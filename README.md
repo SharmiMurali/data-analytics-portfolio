@@ -37,4 +37,4 @@ Research focus: Qualitative analysis of prey–predator models and differential 
 
 Data Analyst | BI Analyst | Reporting Analyst | Data Quality Analyst
 
-📫 Connect with me on [LinkedIn]https://www.linkedin.com/in/dr-sharmila-data-analyst/.
+📫 Connect with me on https://www.linkedin.com/in/dr-sharmila-data-analyst/.
